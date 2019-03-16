@@ -1,11 +1,9 @@
 image: codefresh/cfstep-makisu
-tag: latest
 version: 0.1.0
 description: The plugin makes using Makisu build tool easier in a Codefresh pipeline
 keywords:
   - makisu
   - uber
-home: https://github.com/codefresh-contrib/cfstep-makisu
 sources:
   - https://github.com/codefresh-contrib/cfstep-makisu
 maintainers: # (optional)
