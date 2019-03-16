@@ -1,6 +1,6 @@
 ARG makisu_version
 
-FROM gcr.io/makisu-project/makisu:v${makisu_version} as makisu
+FROM gcr.io/makisu-project/makisu:v0.1.9 as makisu
 
 FROM alpine:3.7
 
